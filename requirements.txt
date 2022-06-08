@@ -1,0 +1,7 @@
+--find-links=https://girder.github.io/large_image_wheels GDAL
+geemap
+geopandas
+leafmap
+owslib
+streamlit
+
